@@ -27,7 +27,7 @@
 ## Features
 
 - **Modular architecture** — install modules and themes from the built-in marketplace or develop your own
-- **Game server integration** — native support for Source (CS2, CS:GO, TF2), GoldSrc (CS 1.6), and Minecraft servers via query protocols
+- **Game server integration** — native support for Source FiveM (ESX, Qb-Core, VRP2.0), (CS2, CS:GO, TF2), GoldSrc (CS 1.6), and Minecraft servers via query protocols
 - **Payment system** — built-in shop with 15+ payment gateways through Omnipay (Stripe, PayPal, FreeKassa, and more)
 - **Admin panel** — full management interface with role-based access control, analytics, and one-click updates
 - **Social authentication** — OAuth2 login via Steam, Discord, VK, Google, GitHub, and others through HybridAuth
