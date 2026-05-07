@@ -18,7 +18,7 @@
 
 ---
 
-**Flute** is a free, self-hosted CMS designed for game server communities — CS2, CS:GO, TF2, Minecraft, and others. It ships with a modular plugin system, a built-in marketplace, an admin panel, payment integrations, and social auth out of the box. Install it, extend it, make it yours.
+**Flute** is a free, self-hosted CMS designed for game server communities — FiveM, CS2, CS:GO, TF2, Minecraft, and others. It ships with a modular plugin system, a built-in marketplace, an admin panel, payment integrations, and social auth out of the box. Install it, extend it, make it yours.
 
 > [!NOTE]
 > Flute is under active development on the `early` branch. The `main` branch contains stable releases.
